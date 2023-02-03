@@ -5,4 +5,4 @@ function ageCalculator(birthYear, currentYear) {
     console.log(`You are either ${age1} or ${age2}`);
 }
 
-ageCalculator(2000, 2023);
+ageCalculator(1990, 2023);
