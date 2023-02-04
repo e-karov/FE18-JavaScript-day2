@@ -8,4 +8,4 @@ function ageCalculator(birthYear) {
     return `You are either ${age1} or ${age2}`;
 }
 
-console.log(ageCalculator(2000));
+console.log(ageCalculator(2020));
